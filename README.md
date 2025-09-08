@@ -35,5 +35,5 @@ De game **MindShift** is gebaseerd op de klassieke *15-puzzle* en traint logisch
 
 ## ⚠️ Bekende beperkingen
 - Geen undo/redo functionaliteit  
-- Geen swipe-bediening (mobiel)  
+- Geen swipe-bediening 
 - Geen online multiplayer  
